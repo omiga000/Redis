@@ -1,0 +1,10 @@
+.idea/
+*.iml
+**/target/
+**/application-local.yaml
+.env
+.run/
+nginx-1.18.0/logs/*
+nginx-1.18.0/temp/*
+*.log
+.local/
